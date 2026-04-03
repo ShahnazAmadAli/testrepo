@@ -1,0 +1,25 @@
+Year,Region,Wine_Variety,Production_HL,Vineyard
+2015,Moravia,Ryzlink vlašský,15000,Vineyard A
+2016,Moravia,Ryzlink vlašský,16000,Vineyard A
+2017,Moravia,Ryzlink vlašský,15800,Vineyard A
+2018,Moravia,Ryzlink vlašský,16500,Vineyard A
+2019,Moravia,Ryzlink vlašský,17000,Vineyard A
+2020,Moravia,Ryzlink vlašský,16800,Vineyard A
+2021,Moravia,Ryzlink vlašský,17200,Vineyard A
+2022,Moravia,Ryzlink vlašský,17500,Vineyard A
+2015,Bohemia,Frankovka,8000,Vineyard B
+2016,Bohemia,Frankovka,8200,Vineyard B
+2017,Bohemia,Frankovka,7900,Vineyard B
+2018,Bohemia,Frankovka,8100,Vineyard B
+2019,Bohemia,Frankovka,8300,Vineyard B
+2020,Bohemia,Frankovka,8000,Vineyard B
+2021,Bohemia,Frankovka,8400,Vineyard B
+2022,Bohemia,Frankovka,8600,Vineyard B
+2015,Moravia,Müller Thurgau,12000,Vineyard C
+2016,Moravia,Müller Thurgau,13000,Vineyard C
+2017,Moravia,Müller Thurgau,12500,Vineyard C
+2018,Moravia,Müller Thurgau,12800,Vineyard C
+2019,Moravia,Müller Thurgau,13200,Vineyard C
+2020,Moravia,Müller Thurgau,12900,Vineyard C
+2021,Moravia,Müller Thurgau,13500,Vineyard C
+2022,Moravia,Müller Thurgau,13700,Vineyard C
